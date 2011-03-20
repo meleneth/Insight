@@ -1,0 +1,5 @@
+## Interface: 40000
+## Title: Insight
+## Notes: View AH data to enable decision making
+
+Insight.lua
